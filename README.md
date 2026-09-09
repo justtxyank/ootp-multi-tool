@@ -71,7 +71,7 @@ requests, and questions. Please include:
 - Your OOTP version
 - Any error message, copied as text
 
-You can also email **justtxyank@protonmail.com**.
+You can also email **feedback@justtxyank.com**.
 
 This repository is for releases and issue tracking. Source code is not
 published here, so pull requests aren't expected — but issues are read and
