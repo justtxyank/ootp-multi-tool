@@ -1,0 +1,3 @@
+# identity-scan allowlist — see scripts/identity-scan.sh
+# One exact line of file content per entry. Add only after deciding a hit is
+# genuinely safe to publish, and say why. When in doubt, ask the owner.
